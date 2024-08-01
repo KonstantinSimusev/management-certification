@@ -1,1 +1,1 @@
-https://konstantinsimusev.github.io/project
+https://konstantinsimusev.github.io/management-certification
