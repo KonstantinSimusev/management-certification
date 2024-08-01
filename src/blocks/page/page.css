@@ -1,0 +1,8 @@
+.page {
+  display: grid;
+  min-inline-size: 375px;
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: .9;
+}
