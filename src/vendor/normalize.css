@@ -355,6 +355,10 @@ template {
 *::after {
   box-sizing: border-box;
 }
+
+html {
+  block-size: 100%;
+}
  
 h1,
 h2,

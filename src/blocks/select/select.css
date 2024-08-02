@@ -1,0 +1,7 @@
+@import url('./__shop/select__shop.css');
+
+.select {
+  display: grid;
+  gap: 30px;
+  max-inline-size: 350px;
+}
